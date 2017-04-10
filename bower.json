@@ -1,0 +1,20 @@
+{
+  "name": "BootStrapApp",
+  "homepage": "https://github.com/LzCrazy/BootStrapApp",
+  "authors": [
+    "LzCrazy <mizur@sina.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
