@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background: @bodyBgColor;
+  .fs(12);
+  color: @bodyColor;
+  .lh(24);
+
+}
+ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,p,input,button {
+  margin: 0;
+  padding: 0;
+}
+ul,ol{
+  list-style:none;
+}
+a {
+  color: @bodyColor;
+  text-decoration: none;
+}
+a:hover{
+  color: @hoverColor;
+}
+.clearfloat:after {
+  content: "";
+  display: block;
+  .h(0);
+  clear: both;
+  visibility: hidden;
+}
+.container {
+  .w(1000);
+  margin: 0 auto;
+}
