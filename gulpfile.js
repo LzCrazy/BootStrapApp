@@ -29,9 +29,8 @@ gulp.task('php', function() {
         .pipe(gulp.dest(app.prdPath+'data'))
         .pipe($.connect.reload());
 });
-gulp.task('less', function() {
-    gulp.src(app.srcPath + 'style/index.less')
-        .pipe($.less())
+gulp.task('css', function() {
+    gulp.src(app.srcPath + 'style/*.css')
         .pipe(gulp.dest(app.devPath+'css'))
         .pipe($.cssmin())
         .pipe(gulp.dest(app.prdPath+'css'))
@@ -39,7 +38,6 @@ gulp.task('less', function() {
 });
 gulp.task('js',function () {
     gulp.src(app.srcPath + 'script/**/*.js')
-        .pipe($.concat('index.js'))
         .pipe(gulp.dest(app.devPath + 'js'))
         .pipe($.uglify())
         .pipe(gulp.dest(app.prdPath + 'js'))
@@ -52,7 +50,7 @@ gulp.task('image',function () {
         .pipe(gulp.dest(app.prdPath + 'image'))
         .pipe($.connect.reload());
 });
-gulp.task('build', ['image', 'js', 'less', 'lib', 'html', 'php']);
+gulp.task('build', ['image', 'js', 'css', 'lib', 'html', 'php']);
 gulp.task('clean',function () {
     gulp.src([app.devPath, app.prdPath])
         .pipe($.clean());
@@ -68,7 +66,7 @@ gulp.task('server',['build'],function () {
     gulp.watch('bower_components/**/*', ['lib']);
     gulp.watch(app.srcPath + '**/*.html', ['html']);
     gulp.watch(app.srcPath + 'data/**/*.php', ['php']);
-    gulp.watch(app.srcPath + 'style/**/*.less', ['less']);
+    gulp.watch(app.srcPath + 'style/**/*.css', ['css']);
     gulp.watch(app.srcPath + 'script/**/*.js', ['js']);
     gulp.watch(app.srcPath + 'image/**/*', ['image']);
 });

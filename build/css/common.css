@@ -1,0 +1,257 @@
+body {
+    margin:0;
+    background: #fcfcfc;
+    font-family: "Microsoft YaHei";
+    font-size: 12px;
+    color: #555;
+    line-height: 24px;
+}
+ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,p,input,button {
+    margin: 0;
+    padding: 0;
+}
+ul,ol {
+    list-style: none;
+}
+input,button {
+    font-family: "Microsoft YaHei";
+}
+a {
+    color:#555;
+    text-decoration: none;
+}
+a:hover{
+    color: #f30;
+    text-decoration: none;
+}
+.clearfloat:after{
+    content: "";
+    display: table;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.container {
+    width:1000px;
+    margin: 0 auto;
+}
+/*top*/
+.top {
+    height: 28px;
+    background: #f9f9f9;
+    border-bottom: 1px solid #eee;
+}
+.top ul {
+    float: right;
+}
+.top ul li {
+    float: left;
+    margin-left:15px;
+    line-height: 28px;
+}
+.top ul li a {
+    display: block;
+}
+.top ul li.favorite a,.top ul li.mobilephone a,.top ul li.email,.top ul li.telphone {
+    background: url(/image/iconlist.png) no-repeat;
+}
+.top ul li.favorite a{
+    padding-left:20px;
+    background-position: 0 6px;
+}
+.top ul li.favorite a:hover{
+    background-position: 0 -24px;
+}
+.top ul li.mobilephone a {
+    padding-left: 13px;
+    background-position: 0 -53px;
+    color: #f60;
+}
+.top ul li.email {
+    padding-left: 21px;
+    background-position: 0 -111px;
+}
+.top ul li.telphone {
+    padding-left: 22px;
+    background-position: 0 -143px;
+}
+
+
+/*header*/
+.header {
+    height: 91px;
+    background: #fff;
+}
+.logo {
+    float: left;
+    width: 84px;
+    height: 41px;
+    background: url(/image/logo.png) no-repeat;
+    margin-top:21px;
+}
+.logo a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+/*搜索*/
+.search {
+    float: right;
+    margin-top:29px;
+}
+.search input {
+    width: 430px;
+    height: 32px;
+    vertical-align: top;
+    border:1px solid #ccc;
+    border-right: none;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.search button {
+    width: 50px;
+    height: 32px;
+    vertical-align: top;
+    border:none;
+    background: #57bc4c url(/image/iconlist.png) no-repeat 14px -175px;
+}
+.search button:hover {
+    background-color: #4cb141;
+}
+
+.h_cart {
+    float: right;
+    margin-top: 29px;
+    margin-left:20px;
+    position: relative;
+}
+.h_cart>a {
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 140px;
+    height: 32px;
+    border: 1px solid #ddd;
+    line-height: 30px;
+    background: #f9f9f9;
+    padding-left: 9px;
+    position: relative;
+    z-index: 999;
+}
+.icon_cart {
+    display: inline-block;
+    width: 19px;
+    height: 14px;
+    margin-right:9px;
+    vertical-align: middle;
+    margin-top: -4px;
+    background: url(/image/iconlist.png) no-repeat 0 -220px;
+}
+.icon_arrows {
+    display: inline-block;
+    border:4px solid transparent;
+    border-top-color:#57bc4c;
+    margin-left:9px;
+    vertical-align: middle;
+    margin-top: 2px;
+    transition: all 0.3s;
+    transform-origin: center 2px;
+}
+/*购物车下拉菜单*/
+.cart_dropdown {
+    position: absolute;
+    right:0;
+    top:31px;
+    width: 260px;
+    height: 206px;
+    background: #fff;
+    border:1px solid #ddd;
+    z-index: 998;
+    display: none;
+}
+.h_cart:hover .cart_dropdown {
+    display: block;
+}
+.h_cart:hover>a {
+    background: #fff;
+    border-bottom: transparent;
+}
+.h_cart:hover .icon_arrows{
+    transform: rotate(180deg);
+}
+
+
+/*navbar*/
+.navbar{
+    height:40px;
+    background: #75bc4c;
+    border-bottom:2px solid #c1eebd;
+}
+.nav{
+    float: left;
+}
+.nav li {
+    float: left;
+}
+.nav li a {
+    display: block;
+    line-height: 40px;
+    color:#fff;
+    font-size: 15px;
+    padding: 0 20px;
+    min-width: 40px;
+    text-align: center;
+}
+.nav .active a {
+    background: #3da232;
+}
+.nav .active a:hover {
+    background: #3da232;
+}
+.nav a:hover {
+    background: #4eb343;
+}
+
+
+/*个人中心*/
+.n_user {
+    width: 140px;
+    height: 40px;
+    float: right;
+    background: #77c558;
+    position: relative;
+}
+.n_user>p {
+    line-height: 40px;
+    text-align: center;
+    color: #fff;
+}
+.n_user>p>a {
+    color: #fff;
+    font-size: 15px;
+}
+.n_user>p>a:hover {
+    color: #ff9;
+}
+.n_user>a {
+    color: #fff;
+    font-size: 15px;
+    line-height: 40px;
+    display: block;
+    width: 100%;
+    height:100%;
+}
+.user_dropdown {
+    position: absolute;
+    right: 0;
+    top:40px;
+    width: 280px;
+    height: 170px;
+    background: #8bccf4;
+    box-shadow: 2px 2px 3px #999;
+    display: none;
+}
+.n_user:hover .user_dropdown{
+    display: block;
+}
