@@ -67,3 +67,34 @@
 .indicator .active {
     background: #57bc4c;
 }
+
+
+/*个人中心*/
+.user_course>ul>li {
+    float: left;
+    margin-right: 40px;
+    width: 220px;
+}
+.user_course>ul>li:nth-child(3) {
+    margin-right:0;
+}
+.user_course>ul>li .uc_img {
+    width: 220px;
+    height: 138px;
+    position: relative;
+}
+.user_course>ul>li .uc_img img{
+    width:220px;
+    height:138px;
+}
+.user_course>ul>li .uc_img span {
+    width: 60px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background: #e6b266;
+}
