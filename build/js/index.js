@@ -45,12 +45,12 @@ $(function(){
 
     //上一张
     function slidePrev(){
-        if(cur>0){
+        if(cur>0){//上一个
             $('.banner ul li').eq(cur).stop().fadeOut();
             $('.banner ul li').eq(cur-1).stop().fadeIn();
             $('.indicator em').removeClass().eq(cur-1).addClass('active');
             cur--;
-        }else{
+        }else{//第一个
             $('.banner ul li').eq(cur).stop().fadeOut();
             $('.banner ul li').eq(number).stop().fadeIn();
             $('.indicator em').removeClass().eq(number).addClass('active');
@@ -62,47 +62,6 @@ $(function(){
 
 
 });
-
-
-/*(function(){
-    var fk = document.getElementsByClassName("fk");
-    var imgs = fk.getElementsByTagName('img');
-    var lis = fk.getElementsByTagName('li');
-
-    var c = 0;
-    function run(){
-        c++;
-        if (c==5) {
-            c=0;
-        }
-        for (var i=0;i<5;i++) {
-            lis[i].style.background = 'black';
-            imgs[i].style.display = "none";
-        }
-        lis[c].style.background = '#A10000';
-        imgs[c].style.display = "block";
-    }
-    var timer = setInterval(run,2000);
-
-    for (var i=0;i<lis.length;i++) {
-        lis[i].order_no = i;
-        lis[i].onmouseover = function(){
-            c = this.order_no;
-            clearInterval(timer);
-            for (var i=0;i<5;i++) {
-                lis[i].style.background = 'black';
-                imgs[i].style.display = "none";
-            }
-            lis[c].style.background = '#A10000';
-            imgs[c].style.display = "block";
-        }
-
-        lis[i].onmouseout = function(){
-            timer = setInterval(run,2000);
-        }
-    }
-
-});*/
 
 
 

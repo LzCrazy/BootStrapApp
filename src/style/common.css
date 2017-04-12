@@ -252,6 +252,3 @@ a:hover{
     box-shadow: 2px 2px 3px #999;
     display: none;
 }
-.n_user:hover .user_dropdown{
-    display: block;
-}

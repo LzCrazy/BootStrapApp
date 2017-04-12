@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>login</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
+    <title>首页</title>
     <link rel="stylesheet" href="/css/common.css" media="screen" charset="utf-8">
     <link rel="stylesheet" href="/css/mycss.css" media="screen" charset="utf-8">
 </head>
@@ -58,53 +59,61 @@
         </div>
     </div>
 </nav>
-<!--主体内容-->
-<section class="login_box container">
-    <h2 class="title2"><a href="">新用户注册</a><span>用户登录</span></h2>
-    <div class="clearfloat">
-        <!-- 登录框-->
-        <div class="login">
-            <dl>
-                <dt>
-                    <span>用户名不能为空</span>
-                    用户名：
-                </dt>
-                <dd>
-                    <input type="text"/>
-                    <em class="icon-user"></em>
-                    <i></i>
-                </dd>
-            </dl>
-            <dl>
-                <dt>
-                    <span>密码不能为空</span>
-                    密码：
-                </dt>
-                <dd>
-                    <input type="text"/>
-                    <em class="icon-pwd"></em>
-                    <i></i>
-                </dd>
-            </dl>
-            <p class="clearfloat">
-                <label>
-                    <input type="checkbox"/>
-                    <span>自动登录</span>
-                </label>
-                <button type="button">立即登录</button>
-            </p>
+
+
+<!--主题内容-->
+<section class="container user clearfloat">
+    <aside class="user_side">
+        <ul>
+            <li class="active">个人中心主页</li>
+            <li>我的课程</li>
+            <li>我的收藏</li>
+            <li>个人资料</li>
+            <li>修改密码</li>
+        </ul>
+    </aside>
+    <div class="user_main">
+        <div class="user_info">
+            <section class="user_course">
+                <h2 class="title"><span>我购买的课程</span></h2>
+                <ul class="clearfloat">
+                    <li>
+                        <a href="">
+                            <div class="uc_img">
+                                <img src="/image/img-course/01.jpg" alt="">
+                                <span>为了学习</span>
+                            </div>
+                            <p>HTML零基础入门</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <div class="uc_img">
+                                <img src="/image/img-course/01.jpg" alt="">
+                                <span>为了学习</span>
+                            </div>
+                            <p>HTML零基础入门</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <div class="uc_img">
+                                <img src="/image/img-course/01.jpg" alt="">
+                                <span>为了学习</span>
+                            </div>
+                            <p>HTML零基础入门</p>
+                        </a>
+                    </li>
+                </ul>
+            </section>
         </div>
-        <!-- 分割线-->
-        <span class="linebetween"></span>
-        <!-- 二维码-->
-        <p class="qrcode"></p>
     </div>
-
 </section>
-<!--footer-->
-<footer class="footer"></footer>
 
-<script src="/vendor/jquery/jquery-1.11.3.js"></script>
-<script src="/js/index.js"></script>
+<!--footer-->
+<div class="footer"></div>
+
+<script src="vendor/jquery/jquery-1.11.3.js"></script>
+<script src="js/index.js"></script>
 </body>
 </html>
