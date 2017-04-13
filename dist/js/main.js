@@ -1,1 +1,1 @@
-$(function(){$(".n_user").mouseover(function(){$(".user_dropdown").stop().slideDown(100)}).mouseout(function(){$(".user_dropdown").stop().slideUp(100)})});
+$(function(){$(".header_box").load("/view/tel/header.html",function(){}),$(".footer").load("/view/tel/footer.html")});

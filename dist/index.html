@@ -8,57 +8,8 @@
     <link rel="stylesheet" href="/css/mycss.css" media="screen" charset="utf-8">
 </head>
 <body>
-    <!--top-->
-    <div class="top">
-        <div class="container">
-            <ul>
-                <li class="favorite"><a href="">收藏我的课程</a></li>
-                <li class="mobilephone"><a href="">下载客户端</a></li>
-                <li class="email">反馈邮箱:mizur@sina.com</li>
-                <li class="telphone">客服热线:17002677760</li>
-            </ul>
-        </div>　
-    </div>
-
-    <!--header-->
-    <header class="header">
-        <div class="container">
-            <!-- logo-->
-            <h1 class="logo"><a href="view/register.html"></a></h1>
-            <!-- h_cart-->
-            <div class="h_cart">
-                <a href=""><em class="icon_cart"></em>我的购物车(0)<em class="icon_arrows"></em></a>
-                <div class="cart_dropdown"></div>
-            </div>
-            <!-- search-->
-            <div class="search">
-                <input type="text" placeholder="课程搜索"/><button type="button"></button>
-            </div>
-        </div>
-    </header>
-
-    <!--nav-->
-    <nav class="navbar">
-        <div class="container">
-            <!--导航-->
-            <ul class="nav">
-                <li class="active"><a href="">首页</a></li>
-                <li><a href="">全部课程</a></li>
-                <li><a href="">基础课程</a></li>
-                <li><a href="">核心课程</a></li>
-                <li><a href="">进阶课程</a></li>
-                <li><a href="">铭师堂</a></li>
-                <li><a href="">校区</a></li>
-            </ul>
-            <div class="n_user">
-                <!-- 登录前-->
-                <!--<p><a href="">登录</a> | <a href="">注册</a></p>-->
-                <!-- 登录后-->
-                <a href=""><em class="icon-user"></em>个人中心<em class="icon-triangle"></em></a>
-                <div class="user_dropdown"></div>
-            </div>
-        </div>
-    </nav>
+     <!-- header -->
+     <div class="header_box"></div>
 
     <!--div.banner-->
     <div class="banner">
@@ -78,25 +29,103 @@
         </div>
     </div>
 
-    <!--div.main-->
-    <div class="main">
+    <!--main container-->
+    <div class="container">
         <section class="ind_1">
             <h2 class="title"><span>最新课程</span><a href="">更多</a></h2>
-            <ul class="course">
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+            <ul class="course clearfloat">
+                <li>
+                    <a href="" class="a_img"><img src="image/img-course/01.png" alt=""/></a>
+                    <a href="" class="a_text">HTML5基础入门</a>
+                    <p>讲师：LzCrazy</p>
+                    <strong>¥ 799.00</strong>
+                </li>
+                <li>
+                    <a href="" class="a_img"><img src="image/img-course/02.png" alt=""/></a>
+                    <a href="" class="a_text">HTML5基础入门</a>
+                    <p>讲师：LzCrazy</p>
+                    <strong>¥ 799.00</strong>
+                </li>
+                <li>
+                    <a href="" class="a_img"><img src="image/img-course/03.png" alt=""/></a>
+                    <a href="" class="a_text">HTML5基础入门</a>
+                    <p>讲师：LzCrazy</p>
+                    <strong>¥ 799.00</strong>
+                </li>
+                <li>
+                    <a href="" class="a_img"><img src="image/img-course/04.png" alt=""/></a>
+                    <a href="" class="a_text">HTML5基础入门</a>
+                    <p>讲师：LzCrazy</p>
+                    <strong>¥ 799.00</strong>
+                </li>
             </ul>
         </section>
-        <section class="ind_2"></section>
-        <section class="ind_3"></section>
+        <section class="ind_2">
+            <h2 class="title"><span>热门课程</span><a href="">更多</a></h2>
+            <ul class="course clearfloat">
+                <li>
+                    <a href="" class="a_img"><img src="image/img-course/06.png" alt=""/></a>
+                    <a href="" class="a_text">HTML5基础入门</a>
+                    <p>讲师：LzCrazy</p>
+                    <strong>¥ 799.00</strong>
+                </li>
+                <li>
+                    <a href="" class="a_img"><img src="image/img-course/05.png" alt=""/></a>
+                    <a href="" class="a_text">HTML5基础入门</a>
+                    <p>讲师：LzCrazy</p>
+                    <strong>¥ 799.00</strong>
+                </li>
+                <li>
+                    <a href="" class="a_img"><img src="image/img-course/02.png" alt=""/></a>
+                    <a href="" class="a_text">HTML5基础入门</a>
+                    <p>讲师：LzCrazy</p>
+                    <strong>¥ 799.00</strong>
+                </li>
+                <li>
+                    <a href="" class="a_img"><img src="image/img-course/01.png" alt=""/></a>
+                    <a href="" class="a_text">HTML5基础入门</a>
+                    <p>讲师：LzCrazy</p>
+                    <strong>¥ 799.00</strong>
+                </li>
+            </ul>
+        </section>
+        <section class="ind_teacher">
+            <h2 class="title"><span>名师堂</span><a href="">更多</a></h2>
+            <ul class="ind_teacher clearfloat">
+                <li>
+                    <a href=""><img src="image/img-teacher/t_01.png" alt=""/></a>
+                    <p>讲师：LzCrazy</p>
+                    <span>主讲：Bootstrap</span>
+                </li>
+                <li>
+                    <a href=""><img src="image/img-teacher/t_02.png" alt=""/></a>
+                    <p>讲师：LzCrazy</p>
+                    <span>主讲：HTML&CSS</span>
+                </li>
+                <li>
+                    <a href=""><img src="image/img-teacher/t_03.png" alt=""/></a>
+                    <p>讲师：LzCrazy</p>
+                    <span>主讲：Javascript</span>
+                </li>
+                <li>
+                    <a href=""><img src="image/img-teacher/t_04.png" alt=""/></a>
+                    <p>讲师：LzCrazy</p>
+                    <span>主讲：HTTP&SERVER</span>
+                </li>
+                <li>
+                    <a href=""><img src="image/img-teacher/t_01.png" alt=""/></a>
+                    <p>讲师：LzCrazy</p>
+                    <span>主讲：AngularJS</span>
+                </li>
+            </ul>
+        </section>
     </div>
 
     <!--footer-->
     <div class="footer"></div>
 
     <script src="vendor/jquery/jquery-1.11.3.js"></script>
+    <script src="js/main.js"></script>
     <script src="js/index.js"></script>
 </body>
 </html>

@@ -1,89 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html>
+<head lang="en">
     <meta charset="UTF-8">
-    <title>login</title>
-    <link rel="stylesheet" href="/css/common.css" media="screen" charset="utf-8">
-    <link rel="stylesheet" href="/css/mycss.css" media="screen" charset="utf-8">
+    <title>i前端</title>
+    <link rel="stylesheet" href="/css/common.css"/>
+    <link rel="stylesheet" href="/css/mycss.css"/>
 </head>
 <body>
-<!--top-->
-<div class="top">
-    <div class="container">
-        <ul>
-            <li class="favorite"><a href="">收藏我的课程</a></li>
-            <li class="mobilephone"><a href="">下载客户端</a></li>
-            <li class="email">反馈邮箱:mizur@sina.com</li>
-            <li class="telphone">客服热线:17002677760</li>
-        </ul>
-    </div>　
-</div>
 
 <!--header-->
-<header class="header">
-    <div class="container">
-        <!-- logo-->
-        <h1 class="logo"><a href=""></a></h1>
-        <!-- h_cart-->
-        <div class="h_cart">
-            <a href=""><em class="icon_cart"></em>我的购物车(0)<em class="icon_arrows"></em></a>
-            <div class="cart_dropdown"></div>
-        </div>
-        <!-- search-->
-        <div class="search">
-            <input type="text" placeholder="课程搜索"/><button type="button"></button>
-        </div>
-    </div>
-</header>
+<div class="header_box"></div>
 
-<!--nav-->
-<nav class="navbar">
-    <div class="container">
-        <!--导航-->
-        <ul class="nav">
-            <li class="active"><a href="">首页</a></li>
-            <li><a href="">全部课程</a></li>
-            <li><a href="">基础课程</a></li>
-            <li><a href="">核心课程</a></li>
-            <li><a href="">进阶课程</a></li>
-            <li><a href="">铭师堂</a></li>
-            <li><a href="">校区</a></li>
-        </ul>
-        <div class="n_user">
-            <!-- 登录前-->
-            <!--<p><a href="">登录</a> | <a href="">注册</a></p>-->
-            <!-- 登录后-->
-            <a href=""><em class="icon-user"></em>个人中心<em class="icon-triangle"></em></a>
-            <div class="user_dropdown"></div>
-        </div>
-    </div>
-</nav>
 <!--主体内容-->
 <section class="login_box container">
     <h2 class="title2"><a href="">新用户注册</a><span>用户登录</span></h2>
     <div class="clearfloat">
-        <!-- 登录框-->
         <div class="login">
-            <dl>
-                <dt>
-                    <span>用户名不能为空</span>
-                    用户名：
-                </dt>
+            <dl class="clearfloat">
+                <dt><span class="tips"></span>用户名：</dt>
                 <dd>
-                    <input type="text"/>
-                    <em class="icon-user"></em>
-                    <i></i>
+                    <input type="text" id="uname" placeholder="邮箱/手机号"/>
+                    <em class="icon_user"></em>
+                    <i class="icon_error"></i>
                 </dd>
             </dl>
             <dl>
-                <dt>
-                    <span>密码不能为空</span>
-                    密码：
-                </dt>
+                <dt><span class="tips"></span>密码：</dt>
                 <dd>
-                    <input type="text"/>
-                    <em class="icon-pwd"></em>
-                    <i></i>
+                    <input type="password" id="upwd" placeholder="密码"/>
+                    <em class="icon_pwd"></em>
+                    <i class="icon_error"></i>
                 </dd>
             </dl>
             <p class="clearfloat">
@@ -91,20 +37,27 @@
                     <input type="checkbox"/>
                     <span>自动登录</span>
                 </label>
-                <button type="button">立即登录</button>
+                <button type="button" id="login">立 即 登 录</button>
             </p>
-        </div>
-        <!-- 分割线-->
-        <span class="linebetween"></span>
-        <!-- 二维码-->
-        <p class="qrcode"></p>
-    </div>
 
+        </div>
+        <em class="linebetween"></em>
+        <p class="qrcode">
+            <i></i>
+            <span>扫码登录</span>
+        </p>
+    </div>
 </section>
+
 <!--footer-->
-<footer class="footer"></footer>
+<footer class="footer">
+
+</footer>
+
+
 
 <script src="/vendor/jquery/jquery-1.11.3.js"></script>
-<script src="/js/index.js"></script>
+<script src="/js/main.js"></script>
+<!--<script src="js/login.js"></script>-->
 </body>
 </html>
