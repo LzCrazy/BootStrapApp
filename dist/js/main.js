@@ -1,1 +1,1 @@
-$(function(){$(".header_box").load("/view/tel/header.html",function(){}),$(".footer").load("/view/tel/footer.html")});
+$(function(){$(".header_box").load("/view/tel/header.html",function(){sessionStorage.uid}),$(".footer").load("/view/tel/footer.html")});

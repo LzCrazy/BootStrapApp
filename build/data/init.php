@@ -1,8 +1,8 @@
 <?php
     header('Content-Type:application/json;charset=UTF-8');
-$conn = mysqli_connect('127.0.0.1', 'root', 'root', 'iweb', 3306);
-$sql = "SET NAMES UTF8";
-mysqli_query($conn, $sql);
+$conn=mysqli_connect('127.0.0.1','root','root','iweb',3306);
+$sql="SET NAMES UTF8";
+mysqli_query($conn,$sql);
 
-$output = [];
+$output=[];
 

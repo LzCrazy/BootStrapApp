@@ -12,3 +12,8 @@ day03:
     1.将footer.html和header.html分离出来,以便不同主页的通用(load方法进行加载)
     2.对index.html对个人中心进行修改
     3.对index.html主体添加课程和课程的作者的熟悉技能介绍
+day04:
+遇坑问题login.js(gulp插件connect)
+在异步请求数据(success: function (resp) )
+    数据resp返回一个URL的后台数据(json格式)
+由于gulp服务器插件不能请求PHP文件,导致PHP文件只能是一个text格式的文本

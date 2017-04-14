@@ -1,122 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ef96c74-a900-45c2-bee9-0592fd507eb7" name="Default" comment="data interface">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/image/img-course/01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/image/img-course/02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/image/img-course/03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/image/img-course/04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/image/img-course/05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/image/img-course/06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/image/img-teacher/t_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/image/img-teacher/t_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/image/img-teacher/t_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/image/img-teacher/t_04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/image/img-course/01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/image/img-course/02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/image/img-course/03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/image/img-course/04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/image/img-course/05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/image/img-course/06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/image/img-teacher/t_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/image/img-teacher/t_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/image/img-teacher/t_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/image/img-teacher/t_04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/img-course/01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/img-course/02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/img-course/03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/img-course/04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/img-course/05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/img-course/06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/img-teacher/t_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/img-teacher/t_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/img-teacher/t_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/img-teacher/t_04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/css/user.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/data/init.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/data/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/view/address.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/view/changepwd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/view/course.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/view/teachers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/view/tel/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/view/tel/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/user.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/data/init.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/data/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/view/address.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/view/changepwd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/view/course.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/view/favorite.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/view/mycourse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/view/personal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/view/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/view/teachers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/view/tel/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/view/tel/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sql/iweb.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/user.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/favorite.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/mycourse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/personal.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/banner03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/banner04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/img-course/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/img-course/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/img-course/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/img-course/04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/img-course/05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/img-course/06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/img-teacher/t_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/img-teacher/t_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/img-teacher/t_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/img-teacher/t_04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/image/img-teacher/t_05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/banner03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/banner04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/img-course/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/img-course/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/img-course/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/img-course/04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/img-course/05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/img-course/06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/img-teacher/t_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/img-teacher/t_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/img-teacher/t_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/img-teacher/t_04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/image/img-teacher/t_05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/image/img-course/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/image/img-course/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/image/img-course/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/image/img-course/04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/image/img-course/05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/image/img-course/06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/image/img-teacher/t_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/image/img-teacher/t_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/image/img-teacher/t_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/image/img-teacher/t_04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/image/img-teacher/t_05.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/image/iconlist.png" afterPath="$PROJECT_DIR$/build/image/iconlist.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/image/qrcode.png" afterPath="$PROJECT_DIR$/build/image/qrcode.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/image/iconlist.png" afterPath="$PROJECT_DIR$/dist/image/iconlist.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/image/qrcode.png" afterPath="$PROJECT_DIR$/dist/image/qrcode.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/image/iconlist.png" afterPath="$PROJECT_DIR$/src/image/iconlist.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/image/qrcode.png" afterPath="$PROJECT_DIR$/src/image/qrcode.png" />
+    <list default="true" id="7ef96c74-a900-45c2-bee9-0592fd507eb7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/data/teacher_select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/data/teacher_select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/cart_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/cart_clear.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/cart_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/cart_delete_more.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/cart_select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/cart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/common.css" afterPath="$PROJECT_DIR$/build/css/common.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/mycss.css" afterPath="$PROJECT_DIR$/build/css/mycss.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/data/init.php" afterPath="$PROJECT_DIR$/build/data/init.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/main.js" afterPath="$PROJECT_DIR$/build/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/view/login.html" afterPath="$PROJECT_DIR$/build/view/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/view/register.html" afterPath="$PROJECT_DIR$/build/view/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/view/user.html" afterPath="$PROJECT_DIR$/build/view/user.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/common.css" afterPath="$PROJECT_DIR$/dist/css/common.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/mycss.css" afterPath="$PROJECT_DIR$/dist/css/mycss.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/data/init.php" afterPath="$PROJECT_DIR$/dist/data/init.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/main.js" afterPath="$PROJECT_DIR$/dist/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/view/login.html" afterPath="$PROJECT_DIR$/dist/view/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/view/user.html" afterPath="$PROJECT_DIR$/dist/view/user.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/clap/README.md" afterPath="$PROJECT_DIR$/node_modules/clap/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cookie/LICENSE" afterPath="$PROJECT_DIR$/node_modules/cookie/LICENSE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cookie/README.md" afterPath="$PROJECT_DIR$/node_modules/cookie/README.md" />
@@ -211,14 +114,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/window-size/LICENSE-MIT" afterPath="$PROJECT_DIR$/node_modules/window-size/LICENSE-MIT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/window-size/README.md" afterPath="$PROJECT_DIR$/node_modules/window-size/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/window-size/index.js" afterPath="$PROJECT_DIR$/node_modules/window-size/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/read.md" afterPath="$PROJECT_DIR$/read.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/init.php" afterPath="$PROJECT_DIR$/src/data/init.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/login.js" afterPath="$PROJECT_DIR$/src/script/login.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/main.js" afterPath="$PROJECT_DIR$/src/script/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/common.css" afterPath="$PROJECT_DIR$/src/style/common.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/mycss.css" afterPath="$PROJECT_DIR$/src/style/mycss.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/course.html" afterPath="$PROJECT_DIR$/src/view/course.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sql/iweb.sql" afterPath="$PROJECT_DIR$/src/sql/iweb.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/login.html" afterPath="$PROJECT_DIR$/src/view/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/register.html" afterPath="$PROJECT_DIR$/src/view/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/tel/header.html" afterPath="$PROJECT_DIR$/src/view/tel/header.html" />
     </list>
     <ignored path="BootStrapApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -241,18 +142,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/index.html">
+      <file leaf-file-name="cart_add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data/cart_add.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+            <state relative-caret-position="144">
+              <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="address.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/address.html">
+      <file leaf-file-name="cart_clear.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data/cart_clear.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -261,38 +162,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/user.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="86" column="38" selection-start-line="86" selection-start-column="38" selection-end-line="86" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="favorite.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/favorite.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1830">
-              <caret line="122" column="25" selection-start-line="122" selection-start-column="25" selection-end-line="122" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="personal.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/view/personal.html">
+      <file leaf-file-name="cart_delete.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data/cart_delete.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -301,11 +172,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="changepwd.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/changepwd.html">
+      <file leaf-file-name="cart_delete_more.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data/cart_delete_more.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart_select.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data/cart_select.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/cart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iweb.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sql/iweb.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -350,16 +251,10 @@
         <option value="$PROJECT_DIR$/build/view/rigister.html" />
         <option value="$PROJECT_DIR$/build/index.html" />
         <option value="$PROJECT_DIR$/src/view/course.html" />
-        <option value="$PROJECT_DIR$/src/sql/iweb.sql" />
-        <option value="$PROJECT_DIR$/src/data/init.php" />
-        <option value="$PROJECT_DIR$/src/data/login.php" />
         <option value="$PROJECT_DIR$/src/view/tel/footer.html" />
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/style/mycss.css" />
-        <option value="$PROJECT_DIR$/read.md" />
         <option value="$PROJECT_DIR$/src/view/tel/header.html" />
-        <option value="$PROJECT_DIR$/src/view/login.html" />
-        <option value="$PROJECT_DIR$/src/script/main.js" />
         <option value="$PROJECT_DIR$/build/view/tel/header.html" />
         <option value="$PROJECT_DIR$/build/view/register.html" />
         <option value="$PROJECT_DIR$/build/view/course.html" />
@@ -367,6 +262,16 @@
         <option value="$PROJECT_DIR$/src/view/changepwd.html" />
         <option value="$PROJECT_DIR$/src/view/user.html" />
         <option value="$PROJECT_DIR$/src/view/favorite.html" />
+        <option value="$PROJECT_DIR$/src/view/login.html" />
+        <option value="$PROJECT_DIR$/src/data/login.php" />
+        <option value="$PROJECT_DIR$/src/script/login.js" />
+        <option value="$PROJECT_DIR$/src/data/init.php" />
+        <option value="$PROJECT_DIR$/read.md" />
+        <option value="$PROJECT_DIR$/src/script/main.js" />
+        <option value="$PROJECT_DIR$/src/script/course.js" />
+        <option value="$PROJECT_DIR$/src/data/cart_add.php" />
+        <option value="$PROJECT_DIR$/src/view/cart.html" />
+        <option value="$PROJECT_DIR$/src/sql/iweb.sql" />
       </list>
     </option>
   </component>
@@ -406,8 +311,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -428,10 +331,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="/Applications/XAMPP/htdocs/Iweb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -442,24 +347,27 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/style" />
-      <recent name="$PROJECT_DIR$/src/view" />
-      <recent name="$PROJECT_DIR$/src/image" />
-      <recent name="$PROJECT_DIR$/src/image/img-course" />
-      <recent name="$PROJECT_DIR$/src/sql" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/image/img-teacher" />
       <recent name="$PROJECT_DIR$/src/image" />
       <recent name="$PROJECT_DIR$/src/style" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/view" />
+      <recent name="$PROJECT_DIR$/src/data" />
+      <recent name="$PROJECT_DIR$/src/script" />
+      <recent name="$PROJECT_DIR$/src/style" />
+      <recent name="$PROJECT_DIR$/src/image" />
+    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.header.html">
+  <component name="RunManager" selected="Node.js.login.js">
     <configuration default="false" name="user.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CourseApp/src/view/user.html">
       <method />
     </configuration>
     <configuration default="false" name="header.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CourseApp/src/view/tel/header.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="login.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="login.js" working-dir="$PROJECT_DIR$/src/script">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -515,14 +423,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.user.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.header.html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.login.js" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.header.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.user.html" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.login.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.header.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.user.html" />
       </list>
     </recent_temporary>
   </component>
@@ -547,21 +457,8 @@
       <workItem from="1491971402455" duration="18647000" />
       <workItem from="1492013718461" duration="797000" />
       <workItem from="1492056434471" duration="6028000" />
-      <workItem from="1492096783028" duration="323000" />
-    </task>
-    <task id="LOCAL-00001" summary="课程项目搭建">
-      <created>1491839706908</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1491839706908</updated>
-    </task>
-    <task id="LOCAL-00002" summary="环境搭建完成">
-      <created>1491884636630</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1491884636630</updated>
+      <workItem from="1492096783028" duration="1706000" />
+      <workItem from="1492156755220" duration="6594000" />
     </task>
     <task id="LOCAL-00003" summary="gulp搭建完成">
       <created>1491884809927</created>
@@ -815,34 +712,125 @@
       <option name="project" value="LOCAL" />
       <updated>1492097034364</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="StaticInterfaceFinish">
+      <created>1492097286294</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1492097286294</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add login.js">
+      <created>1492098616511</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1492098616511</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add register.php">
+      <created>1492165453003</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1492165453003</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add register.js">
+      <created>1492165481138</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1492165481138</updated>
+    </task>
+    <task id="LOCAL-00043" summary="add teacher.js">
+      <created>1492165509427</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1492165509427</updated>
+    </task>
+    <task id="LOCAL-00044" summary="add teacher_select.php">
+      <created>1492165545504</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1492165545504</updated>
+    </task>
+    <task id="LOCAL-00045" summary="add course_select.php">
+      <created>1492165602690</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1492165602690</updated>
+    </task>
+    <task id="LOCAL-00046" summary="add course.js">
+      <created>1492165682254</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1492165682254</updated>
+    </task>
+    <task id="LOCAL-00047" summary="add course_detail.php">
+      <created>1492165722247</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1492165722248</updated>
+    </task>
+    <task id="LOCAL-00048" summary="add course_detail.js">
+      <created>1492165753156</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1492165753156</updated>
+    </task>
+    <task id="LOCAL-00049" summary="add course_type.php">
+      <created>1492165809348</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1492165809348</updated>
+    </task>
+    <task id="LOCAL-00050" summary="add user_check_phone.php">
+      <created>1492165871840</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1492165871841</updated>
+    </task>
+    <task id="LOCAL-00051" summary="add user_check_uname.php">
+      <created>1492165910718</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1492165910718</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56852000" />
+    <option name="totallyTimeSpent" value="64829000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15170771" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19618745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39941263" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -860,19 +848,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="build重构&#10;" />
-    <MESSAGE value="dest重构&#10;" />
-    <MESSAGE value="首页架构搭建&#10;" />
-    <MESSAGE value="图片资源&#10;&#10;" />
-    <MESSAGE value="Jquery实现轮播插件" />
-    <MESSAGE value="显示首页和轮播" />
-    <MESSAGE value="添加个人中心HTML" />
-    <MESSAGE value="添加个人中心Css" />
-    <MESSAGE value="login.html&#10;" />
-    <MESSAGE value="Add Login.html" />
-    <MESSAGE value="Add regiset.html" />
-    <MESSAGE value="add regiseter.html" />
-    <MESSAGE value="add register" />
     <MESSAGE value="add course" />
     <MESSAGE value="UpdataRead" />
     <MESSAGE value="data interface" />
@@ -885,121 +860,32 @@
     <MESSAGE value="add personal" />
     <MESSAGE value="add mycourse" />
     <MESSAGE value="add favorite&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add favorite&#10;" />
+    <MESSAGE value="StaticInterfaceFinish" />
+    <MESSAGE value="add login.js" />
+    <MESSAGE value="add register.php" />
+    <MESSAGE value="add register.js" />
+    <MESSAGE value="add teacher.js" />
+    <MESSAGE value="add teacher_select.php" />
+    <MESSAGE value="add course_select.php" />
+    <MESSAGE value="add course.js" />
+    <MESSAGE value="add course_detail.php" />
+    <MESSAGE value="add course_detail.js" />
+    <MESSAGE value="add course_type.php" />
+    <MESSAGE value="add user_check_phone.php" />
+    <MESSAGE value="add user_check_uname.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="add user_check_uname.php" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/image/img-course/05.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/image/img-course/03.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/image/img-course/02.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/image/banner03.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/image/banner04.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/image/banner02.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/banner01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/jquery/jquery-1.11.3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="7619" column="11" selection-start-line="7619" selection-start-column="4" selection-end-line="7619" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="760" column="0" selection-start-line="760" selection-start-column="0" selection-end-line="760" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/image/iconlist.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/iconlist.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/img-teacher/t_02.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/image/img-teacher/t_01.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/view/course.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="90" column="14" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sql/iweb.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/data/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/data/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1045,13 +931,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/read.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/image/qrcode.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1071,21 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="59" column="14" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/view/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -1097,14 +961,139 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="68" column="64" selection-start-line="68" selection-start-column="64" selection-end-line="68" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/user.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/view/mycourse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2460">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/view/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="59" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/view/favorite.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2370">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/view/course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/index.html">
+    <entry file="file://$PROJECT_DIR$/src/view/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        <state relative-caret-position="375">
+          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/favorite.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="122" column="25" selection-start-line="122" selection-start-column="25" selection-end-line="122" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="86" column="38" selection-start-line="86" selection-start-column="38" selection-end-line="86" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/clone/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <marker date="1427323548000" expanded="true" signature="4211:4221" ph="..." />
+            <marker date="1427323548000" expanded="true" signature="4368:4377" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/gulp-connect/src/index.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-502">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/jquery/jquery-1.11.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2793">
+          <caret line="9828" column="44" selection-start-line="9828" selection-start-column="44" selection-end-line="9828" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/vendor/jquery/jquery-1.11.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1494">
+          <caret line="9365" column="16" selection-start-line="9365" selection-start-column="16" selection-end-line="9365" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/script/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -1117,10 +1106,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/user.css">
+    <entry file="file://$PROJECT_DIR$/build/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1132,66 +1130,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/user.html">
+    <entry file="file://$PROJECT_DIR$/src/script/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="86" column="38" selection-start-line="86" selection-start-column="38" selection-end-line="86" selection-end-column="38" />
+        <state relative-caret-position="339">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+          <folding>
+            <marker date="1492163954000" expanded="true" signature="314:630" ph="..." />
+            <marker date="1492163954000" expanded="true" signature="438:498" ph="..." />
+            <marker date="1492163954000" expanded="true" signature="537:615" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/script/course.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <marker date="1492165661000" expanded="true" signature="1275:1903" ph="..." />
+            <marker date="1492165661000" expanded="true" signature="1435:1747" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/script/course_detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/favorite.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1830">
-          <caret line="122" column="25" selection-start-line="122" selection-start-column="25" selection-end-line="122" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/view/mycourse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2460">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/view/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="59" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/view/favorite.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2370">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/view/course.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/personal.html">
+    <entry file="file://$PROJECT_DIR$/src/data/user_register.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/user_check_uname.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/user_check_phone.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/type_select.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/teacher_select.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="12" selection-start-line="18" selection-start-column="10" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/cart_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/cart_clear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/cart_delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/cart_delete_more.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/cart_select.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sql/iweb.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
           <folding />
         </state>
       </provider>
